@@ -81,7 +81,6 @@ BTC_indicators.csv
 NVDA_indicators.csv
 TSM_indicators.csv
 GOLD_indicators.csv
-ALL_assets_indicators.csv
 ```
 Each individual CSV file contains the original OHLCV data, calculated technical indicators, and a `Daily_Info` column that summarizes the daily market information and indicators in text format.
 Output Columns
